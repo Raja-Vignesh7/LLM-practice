@@ -3,3 +3,5 @@
 nlpenv/
 papers/
 vector_db/
+temp.py
+inputs/

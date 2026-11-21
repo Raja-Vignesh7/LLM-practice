@@ -5,3 +5,6 @@ papers/
 vector_db/
 temp.py
 inputs/
+outputs/
+.cache/
+tmp/

@@ -1,7 +1,10 @@
 .env
 .ipynb_checkpoints
+.cache/
 nlpenv/
 papers/
 vector_db/
 temp.py
 inputs/
+outputs/
+tmp/
